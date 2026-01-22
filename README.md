@@ -48,8 +48,6 @@ MOV (Register to Register)
 
 ### System and I/O Instructions
 CLR (Clear), SET  
-INP (Input), OUT (Output)  
-HLT (Halt), RST (Reset)
 
 ---
 
